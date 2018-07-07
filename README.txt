@@ -1,6 +1,4 @@
-Dear Tutor/Marker
-
-Please note that my classes are saved within a package. So to enter command line parameters through terminal package name must me included.
+Please note that my classes are saved within a package. So to enter command line parameters through terminal package name must be included.
 
 e.g
 
